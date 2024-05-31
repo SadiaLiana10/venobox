@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    outline: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1170px;
+    margin: auto;
+}
+
+#video-id{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #BAD7E9;
+}
+
+#video-id span{
+    font-size:70px;
+    color:#060047;
+    margin:10px;
+}
